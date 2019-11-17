@@ -1,0 +1,14 @@
+﻿  Cubo.cpp
+  Esfera.cpp
+  main.cpp
+  ObjectWEvents.cpp
+  ofApp.cpp
+     Creando biblioteca bin\PracticaFinal_debug.lib y objeto bin\PracticaFinal_debug.exp
+  PracticaFinal.vcxproj -> C:\Users\esteb\OneDrive\Documentos\of_v0.10.1_vs2017_release\of_v0.10.1_vs2017_release\apps\myApps\PracticaFinal\bin\PracticaFinal_debug.exe
+  
+  	                   2	C:\Users\esteb\OneDrive\Documentos\of_v0.10.1_vs2017_release\of_v0.10.1_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	  *Archivo EXTRA		 6018560	C:\Users\esteb\OneDrive\Documentos\of_v0.10.1_vs2017_release\of_v0.10.1_vs2017_release\apps\myApps\PracticaFinal\bin\FreeImage.dll
+  
+  	                   1	C:\Users\esteb\OneDrive\Documentos\of_v0.10.1_vs2017_release\of_v0.10.1_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *Archivo EXTRA		 1266176	C:\Users\esteb\OneDrive\Documentos\of_v0.10.1_vs2017_release\of_v0.10.1_vs2017_release\apps\myApps\PracticaFinal\bin\fmodex.dll
+  	  *Archivo EXTRA		 1312768	C:\Users\esteb\OneDrive\Documentos\of_v0.10.1_vs2017_release\of_v0.10.1_vs2017_release\apps\myApps\PracticaFinal\bin\fmodexL.dll
